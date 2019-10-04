@@ -10,9 +10,3 @@ My favorite classes to teach, in no particular order:
 5. Stats 10
 6. Stats anything
 
-
-# the following have been merged into master
-Example of a change
-
-# we have added additional lines in master
-Another example of a change

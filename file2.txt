@@ -7,11 +7,3 @@ Best Fast Food in Westwood
 # some changes made in beta
 Best Marvel Movies
 1. Endgame
-2. Iron Man
-3. Civil War
-
-# changes made in master
-Best Rides at Disneyland
-1. Pirates
-2. Space Mountain
-3. Haunted Mansion
